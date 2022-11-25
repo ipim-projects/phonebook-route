@@ -1,0 +1,19 @@
+{
+  "properties": [
+    {
+      "name": "processor.outputDir",
+      "type": "java.lang.String",
+      "description": "data-out"
+    },
+    {
+      "name": "settingdir.json.defaultDir",
+      "type": "java.lang.String",
+      "description": "default dir"
+    },
+    {
+      "name": "settingdir.json.processDir",
+      "type": "java.lang.String",
+      "description": "work-in"
+    }
+  ] 
+}
