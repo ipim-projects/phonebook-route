@@ -1,19 +1,19 @@
 {
   "properties": [
     {
-      "name": "processor.outputDir",
+      "name": "phonebook.outputDir",
       "type": "java.lang.String",
-      "description": "data-out"
+      "description": "Output directory for data-out"
     },
     {
-      "name": "settingdir.json.defaultDir",
+      "name": "phonebook.defaultDir",
       "type": "java.lang.String",
       "description": "default dir"
     },
     {
-      "name": "settingdir.json.processDir",
+      "name": "phonebook.workDir",
       "type": "java.lang.String",
-      "description": "work-in"
+      "description": "Input directory for work-in"
     }
   ] 
 }
