@@ -57,7 +57,7 @@ java -jar target\phonebook-route-0.0.1-SNAPSHOT.jar  --spring.config.location=C:
 ----|-----------------------|-----------------------| ----------------------------------------------- 
 1.  |  phonebook.defaultDir | null                  | Корневой каталог работы маршрута, по-умолчанию будет использован HOME для текущего пользователя
 2.  |  phonebook.workDir    | work                  | Каталог входных файлов - для файлов с выгрузками
-3.  |  phonebook.outputDir  | data                  | Каталог входных файлов
+3.  |  phonebook.outputDir  | data                  | Каталог выходных файлов
 4.  |  phonebook.makeDirs   | true                  | Создавать каталоги при их отсутствии
 5.  |  logging.file.name    | указать файл          | Имя лог-файла 
 5.  |  debug                | true/false            | Требуется ли debug уровень логгирования
